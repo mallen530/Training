@@ -1,0 +1,4 @@
+Training
+========
+
+Teaching myself MVC
